@@ -7,7 +7,7 @@
 - Wechat：fulu_qq123
 
 # Personal information
- - Emilia Fu/男/1995
+ - Lu Fu/man/1995
  - Blog：http://www.ranjiuju.com
  - Github：https://github.com/emiliaFuLu
 
