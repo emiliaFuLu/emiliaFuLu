@@ -8,7 +8,7 @@
 
 # Personal information
  - Lu Fu/man/1995
- - Blog：http://www.ranjiuju.com
+ - Blog：
  - Github：https://github.com/emiliaFuLu
 
 
